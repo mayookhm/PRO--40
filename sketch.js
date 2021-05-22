@@ -12,8 +12,8 @@ function preload() {
   backgroundImage = loadImage("Images/1.jpg");
 carimge = loadImage("Images/images (1).jpg");
 carimge2 = loadImage("Images/images.jpg");
-track = loadImage("images/track.jpg");
-ground  = loadImage("images/ground.png");
+track = loadImage("Images/track.jpg");
+ground  = loadImage("Images/ground.png");
 }
 function setup(){
   canvas = createCanvas(displayWidth,displayHeight);
